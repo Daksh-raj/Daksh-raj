@@ -1,19 +1,33 @@
-### Hi there!! 👋
-## This is Daksh raj.I am doing my B-Tech in Maths and Computing at IIT GUWAHATI.
-I’m  working to develop good working strategy
-- I’m developing logic.
-- I’m looking to collaborate on various projects.
-- Languages I know:
-- Html,css,javascript,c++,c,python,Node.js,MySQL(Database),mongoDb(Database),React,Express.js,Django
-- Finally after this Exploring life.....
+<h2>Hi there!! 👋</h2>
+<h2>This side Daksh Raj|I am third yearrite at IITG(Guwahati)|I am persuing my B-Tech in Maths and Computing</h2>
+<h2>About Me...</h2>
+<p>Enthusiastic about the new tech evolving, and love to work in group, sharing ideas,working on them.<br>Actively participate in the comptetions being held at IITG<br>Member of Swc(Students Web Committe), who fosters working for the welfare of IITG.p>
+<div>
+  <h2>Techical Aspects which I know with elementary proficiency.</h2>
+  <h3>coding languages</h3>
+  <ul>
+    <li>C language</li>
+    <li>C++</li>
+    <li>Html</li>
+    <li>Css</li>
+    <li>Javascript</li>
+    <li>MongoDb</li>
+    <li>React</li>
+    <li>Node Js</li>
+    <li>Express Js</li>
+  </ul>
+  <h3>Core concepts</h3>
+  <ul>
+    <li>DSA(Data Structures and Algorithms</li>
+    <li>Probability</li>
+    <li>Financial Engineeering</li>
+    <li>Databases</li>
+    <li>Computer Architecture</li>
+    <li>Number Theory</li>
+  </ul>
+</div>
+
+<div>
+</div>
 <!--
 **Daksh-raj/Daksh-raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on to develop good working habit>
-- 🌱 I’m currently learning various programming languages and getting more into the tech.
-- 👯 I’m looking to collaborate on the various projects inside the campus and outside as well.
-- Languages I know:
-- Html,css,javascript,c++,c,python,node.js!
-- currenlty collaborating on project of the Techno online module to deploy websites!
